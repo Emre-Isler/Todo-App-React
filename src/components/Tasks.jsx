@@ -20,7 +20,7 @@ function Tasks( {list,setList} ) {
     }
 
     let ffalse = "flex justify-between p-4 items-center rounded bg-transparent"
-    let ttrue = "flex justify-between p-4 items-center rounded bg-zinc-600 text-white line-through"
+    let ttrue = "flex justify-between p-4 items-center rounded bg-deneme text-white line-through"
 
   return (
     <div className='w-1/2 mx-auto'>
